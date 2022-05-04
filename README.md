@@ -16,8 +16,8 @@ Install python executable installer first
 ```
 > pip install requests
 > pip install mechanize
-> py.exe main.py -g https://www.facebook.com/Username
-> py.exe main.py -t [This Target ID] -w passwords.txt
+> python main.py -g https://www.facebook.com/Username
+> python main.py -t [This Target ID] -w passwords.txt
 ```
 
 ## Run in FaceBrute.EXE
