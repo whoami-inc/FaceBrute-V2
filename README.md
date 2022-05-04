@@ -2,9 +2,13 @@
 == A N O N Y M O U S  I N C ==
 
 ## Get Started
-Install first
+Install python executable installer first
 ```
-> https://www.python.org/downloads/release/python-370/
+> https://www.python.org/downloads/release/python-373/
+```
+
+## Clone Repo
+```
 > git clone https://github.com/IyoRTML/FaceBrute-V2.git
 ```
 
