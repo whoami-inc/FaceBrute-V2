@@ -14,6 +14,7 @@ Install python executable installer first
 
 ## Run in Command Line
 ```
+> python get-pip.py
 > pip install requests
 > pip install mechanize
 > python main.py -g https://www.facebook.com/Username
