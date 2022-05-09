@@ -26,4 +26,4 @@ Install python executable installer first
 > Double click FaceBrute.exe
 ```
 
-![Anonymous INC](https://github.com/whoami-inc/FaceBrute-V2/main/img/facebruteanonymousinc.jpg)
+![Anonymous INC](https://github.com/whoami-inc/FaceBrute-V2/blob/main/img/facebruteanonymousinc.jpg?raw=true)
