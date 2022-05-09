@@ -15,6 +15,7 @@ Install python executable installer first
 ## Run in Command Line
 ```
 > python get-pip.py
+> cd FaceBrute-V2
 > pip install requests
 > pip install mechanize
 > python main.py -g https://www.facebook.com/Username
