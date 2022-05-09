@@ -9,7 +9,7 @@ Install python executable installer first
 
 ## Clone Repo
 ```
-> git clone https://github.com/IyoRTML/FaceBrute-V2.git
+> git clone https://github.com/whoami-inc/FaceBrute-V2.git
 ```
 
 ## Run in Command Line
@@ -26,4 +26,4 @@ Install python executable installer first
 > Double click FaceBrute.exe
 ```
 
-![Anonymous INC](https://raw.githubusercontent.com/IyoRTML/FaceBrute-V2/main/img/facebruteanonymousinc.jpg)
+![Anonymous INC](https://github.com/whoami-inc/FaceBrute-V2/main/img/facebruteanonymousinc.jpg)
